@@ -12,6 +12,6 @@
 
 My name is Filipe Dias, I'm a Software Engineer
 
-- 🔭 I’m currently working at **KForce**
+- 🔭 I’m currently working at **Restaurant Brands International**
 - 🌱 I’m currently learning DevOps & Microservices Culture 
 - 💻 I love working with Java, Spring Framework, Docker, Python and more!
