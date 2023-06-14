@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 # Filipe Dias :man_technologist:
 
