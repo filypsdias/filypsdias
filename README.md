@@ -12,6 +12,6 @@
 
 My name is Filipe Dias, I'm a Software Engineer
 
-- 🔭 I’m currently working at **Restaurant Brands International**
+- 🔭 I’m currently working at **Whaticket**
 - 🌱 I’m currently learning DevOps & Microservices Culture 
-- 💻 I love working with Java, Spring Framework, Docker, Python and more!
+- 💻 I love working with Java, NodeJS, Docker, Python and more!
